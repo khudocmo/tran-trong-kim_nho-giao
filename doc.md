@@ -492,7 +492,9 @@ Phu Tử mỉm cười, rồi hỏi: "Cầu thì làm sao?"
 
 -Còn Điểm thì làm sao?
 
-Tăng Điểm lúc ấy đang gảy cái đàn sắt, tiếng đàn thong thả và hòa nhã, bỏ đàn xuống, đứng dậy mà thưa: - Chí tôi khác hẳn ba anh kia.
+Tăng Điểm lúc ấy đang gảy cái đàn sắt, tiếng đàn thong thả và hòa nhã, bỏ đàn xuống, đứng dậy mà thưa:
+
+--  Chí tôi khác hẳn ba anh kia.
 
 -Có ngại gì, chẳng qua người nào cũng nói chí người ấy cả.
 
